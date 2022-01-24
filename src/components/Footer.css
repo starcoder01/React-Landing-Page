@@ -1,0 +1,67 @@
+.footer {
+  background-image: linear-gradient(
+    to right,
+    #ff6464 20%,
+    #8946a6 60%,
+    #146356 100%
+  );
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.bye {
+  background-image: linear-gradient(
+    to right,
+    #ff6464 20%,
+    #8946a6 60%,
+    #146356 100%
+  );
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+}
+.contact {
+  background-color: #041562;
+  padding: 20px;
+  text-align: center;
+  margin: 20px;
+}
+
+.updates p {
+  font-size: 20px;
+}
+
+.updates {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.updates div {
+  margin: 30px;
+}
+
+form input {
+  padding: 0.5rem;
+  width: 15rem;
+  margin: 20px;
+  outline: none;
+}
+
+form button {
+  margin: 10px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.footer-text {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  cursor: pointer;
+  font-size: 30px;
+  padding: 20px;
+}

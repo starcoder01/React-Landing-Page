@@ -1,0 +1,38 @@
+.description {
+  margin: 50px auto;
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px;
+  width: 50%;
+}
+
+.description h1 {
+  text-align: center;
+}
+
+.description p {
+  padding: 10px;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.description-btn {
+  text-align: center;
+  padding: 10px;
+}
+
+.description button {
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: rgb(241, 241, 26);
+}
+
+.description button:hover {
+  background-color: white;
+  border: 2px solid rgb(241, 241, 26);
+}

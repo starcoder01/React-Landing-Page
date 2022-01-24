@@ -1,0 +1,18 @@
+.main-content {
+  background-image: url("../../public/images/bg.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+}
+
+.image-text {
+  font-size: 50px;
+  color: black;
+}
+
+.image-content {
+  display: flex;
+  justify-content: space-around;
+  line-height: 100vh;
+  color: antiquewhite;
+}
